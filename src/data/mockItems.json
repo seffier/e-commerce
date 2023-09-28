@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Bicycle",
+        "price": 500,
+        "imgUrl": "/images/bicycle.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Car",
+        "price": 10000,
+        "imgUrl": "/images/car.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Coffee Machine",
+        "price": 120,
+        "imgUrl": "/images/coffee_machine.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 999,
+        "imgUrl": "/images/laptop.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Television",
+        "price": 1250,
+        "imgUrl": "/images/television.jpg"
+    }
+]
